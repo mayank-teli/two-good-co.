@@ -691,15 +691,15 @@ body{
 }
 
 .page7 .p7text2{
-    height: 30vw;
+    height: 25vw;
     width: 60%;
     margin-top: 0%;
     /* background-color: yellow; */
     display: flex;
+    
     justify-content: center;
     justify-items: center;
 }
-
 .page7 .p7text2 svg{
     margin-top: 0%;
     height: 216px;
